@@ -5,10 +5,10 @@
 // ─────────────────────────────────────────────
 
 export const EMPRESA = {
-    nombre: 'ERG-INVENTORY SAS',
-    nit: '901234567-8',
-    direccion: 'Calle 10 #20-30, Cali',
-    telefono: '3001234567',
-    email: 'ventas@erginventory.com',
-    ciudad: 'Cali, Colombia',
+    nombre: 'Pendiente',
+    nit: 'Pendiente',
+    direccion: 'Pendiente',
+    telefono: 'Pendiente',
+    email: 'Pendiente',
+    ciudad: 'Pendiente',
 };
